@@ -1,0 +1,16 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Android Studio related
+.idea/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# iOS related
+ios/Pods/
+ios/Runner.xcworkspace/
