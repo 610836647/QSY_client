@@ -1,0 +1,10 @@
+{
+  "providerName": "青十云",
+  "panelURL": "https://api.tkzb.vip",
+  "panelType": "ppanel",
+  "brandColor": "#0CA4F6",
+  "supportSpeedTest": true,
+  "supportClash": true,
+  "defaultLanguage": "zh",
+  "subscriptionURLTemplate": "https://api.tkzb.vip/api/subscribe?token={token}"
+}
